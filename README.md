@@ -1,4 +1,4 @@
-# Reliance Stock Time Series Analysis
+# Reliance Stock Forecasting & Investment Insights
 
 ## Project Overview
 This project analyzes Reliance Industries’ historical stock performance to uncover patterns, assess market risks, and forecast short-term movements. By applying machine learning and statistical techniques, the aim is not just to model stock price behavior, but to generate insights that support **investment decisions, risk management, and portfolio optimization**.
